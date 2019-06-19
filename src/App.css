@@ -1,0 +1,7 @@
+form {
+	margin-top: 10px;
+}
+
+.completed {
+	text-decoration: line-through;
+}

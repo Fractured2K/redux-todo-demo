@@ -1,10 +1,11 @@
 import React from 'react';
 import './App.css';
+import TodoContainer from './components/TodoContainer';
 
 function App() {
 	return (
 		<div className="App">
-			<h1>Redux Todo App</h1>
+			<TodoContainer />
 		</div>
 	);
 }
